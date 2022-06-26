@@ -5,4 +5,4 @@ const newPerson = person;
 newPerson.name = 'santi';
 console.log(person.name);
 
-// Santi
+// santi
